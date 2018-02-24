@@ -1,3 +1,6 @@
+# Main ideas come from https://github.com/ktaletsk/CuCalc/blob/master/Dockerfile
+# and https://github.com/ktaletsk/CuCalc/issues/3
+
 FROM sagemathinc/cocalc
 
 #Install Anaconda
